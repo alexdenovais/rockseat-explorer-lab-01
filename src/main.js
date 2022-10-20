@@ -115,3 +115,4 @@ function updateExpirationDate(date) {
   const ccExpirationDate = document.querySelector(".cc-extra .value")
   ccExpirationDate.innerText = date.length === 0 ? "02/32" : date
 }
+//Projeto finalizado em 19/10/2022
